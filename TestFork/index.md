@@ -6,5 +6,5 @@
 
 ## step 2
 
-## Test integer
+## Test string
 
